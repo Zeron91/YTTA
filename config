@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/rezaxdev/langbot
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "Origin"]
+	url = https://github.com/Zeron91/YTTA.git
+	fetch = +refs/heads/*:refs/remotes/Origin/*
